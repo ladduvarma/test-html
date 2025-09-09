@@ -1,0 +1,42 @@
+body {
+                background-color: white;
+                background-image: url(download.jpg);
+                background-repeat: no-repeat;
+                background-position: center;
+                /* border-radius: 5px */
+                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                font-size: large;
+            }
+            h1 {
+                color: skyblue;
+                text-align: center;
+                font-size: medium;
+                font-family: 'Times New Roman', Times, serif;
+                font-style: oblique;
+                font-weight: lighter;
+                text-transform: uppercase;
+                        }
+            img {
+              border-radius: 7%;
+            }
+            .Profiledata{
+                color: beige;
+                background-color: black;
+            }
+            #profiledata {
+                background-color: brown;
+                color: black;
+                            }
+     div{
+        text-align: center;
+        content: inherit;
+        width: 500px;
+        padding: 18px;
+        border: 7px solid crimson;
+        margin: 20px;
+        border-radius: 10%;
+     }       
+     .maincomponent
+     {
+        border: red green blue) ;
+     }                
